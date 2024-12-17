@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Hello Epta!</h1>
-    <p>Svalil otsyda.</p>
+    <h1>Hello Teacher!</h1>
+    <p>This is my homework.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
