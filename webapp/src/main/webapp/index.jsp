@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Hello Teacher!</h1>
-    <p>This is my homework.</p>
+    <p>This is my homework.This docker image is made as minimal as possible</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
